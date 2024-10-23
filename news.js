@@ -1,3 +1,3 @@
 function goBack() {
-    window.location.href = "daftar-berita.html";
+    window.location.href = "index.html";
 }
